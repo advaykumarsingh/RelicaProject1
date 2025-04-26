@@ -1,0 +1,175 @@
+E:\Relica Project File - Nathan\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+E:\Relica Project File - Nathan\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Relica Project File - Nathan\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Content\gridLine.xnb
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\obj\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Content\Level1RoomSprites.xnb
+C:\Users\185246\Desktop\Relica - Nathan-20250327T185540Z-001\Relica - Nathan\Relica\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Content\gridLine.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\obj\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - Nathan\Relica\bin\x86\Debug\Content\Level1RoomSpritesV2.xnb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.exe
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.pdb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\gridLine.xnb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\Level1RoomSpritesV2.xnb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\SaveButton.xnb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\miniMapTileSet.xnb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Relica.exe
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Relica.pdb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\EnemySheet.xnb
+E:\Relica Project File - Nathan\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\CheckBox.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\gridLine.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\Level1RoomSpritesV2.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\SaveButton.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\miniMapTileSet.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\EnemySheet.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\CheckBox.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Content\gridLine.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Content\Level1RoomSpritesV2.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Content\SaveButton.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Content\miniMapTileSet.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Content\EnemySheet.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Content\CheckBox.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\obj\x86\Debug\Relica.exe
+C:\Users\185246\Desktop\Relica - Nathan-3 31 2025\Relica - NathanN\Relica - Nathan\Relica - Nathan 4 9 2025\Relica\obj\x86\Debug\Relica.pdb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\gridLine.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Level1RoomSpritesV2.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\SaveButton.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\miniMapTileSet.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\EnemySheet.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\CheckBox.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Relica.exe
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Relica.pdb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.exe
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.pdb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Level1RoomSpritesV3.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+E:\Relica Project File - Nathan\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Projectiles.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\gridLine.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Level1RoomSpritesV2.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\SaveButton.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\miniMapTileSet.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\EnemySheet.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\CheckBox.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Level1RoomSpritesV3.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Projectiles.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Relica.exe
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.exe
+C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\Relica.pdb

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gridLine.png</Source>
+      <Name>gridLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\gridLine.xnb</Output>
+      <Time>2025-04-26T15:41:06.418697-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1RoomSpritesV2.png</Source>
+      <Name>Level1RoomSpritesV2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Level1RoomSpritesV2.xnb</Output>
+      <Time>2025-04-26T15:41:06.4499406-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SaveButton.png</Source>
+      <Name>SaveButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\SaveButton.xnb</Output>
+      <Time>2025-04-26T15:41:06.6217741-05:00</Time>
+    </Item>
+    <Item>
+      <Source>miniMapTileSet.png</Source>
+      <Name>miniMapTileSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\miniMapTileSet.xnb</Output>
+      <Time>2025-04-26T15:41:06.496804-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemySheet.png</Source>
+      <Name>EnemySheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\EnemySheet.xnb</Output>
+      <Time>2025-04-26T15:41:06.3874541-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckBox.png</Source>
+      <Name>CheckBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\CheckBox.xnb</Output>
+      <Time>2025-04-26T15:41:06.3628035-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1RoomSpritesV3.png</Source>
+      <Name>Level1RoomSpritesV3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Level1RoomSpritesV3.xnb</Output>
+      <Time>2025-04-26T15:41:06.4655612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprite.png</Source>
+      <Name>PlayerSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\PlayerSprite.xnb</Output>
+      <Time>2025-04-26T15:41:06.5280464-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles.png</Source>
+      <Name>Projectiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\Projectiles.xnb</Output>
+      <Time>2025-04-26T15:41:06.5592894-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2025-04-26T15:41:06.6373959-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0A840732-6500-46B6-9821-5DF3CCCF1AE3}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\RelicaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Advay\Downloads\Relica - Nathan 4 25 HomeStuff\Relica - Nathan 4 22 2025\Relica\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-08-27T16:24:16.9626471-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
