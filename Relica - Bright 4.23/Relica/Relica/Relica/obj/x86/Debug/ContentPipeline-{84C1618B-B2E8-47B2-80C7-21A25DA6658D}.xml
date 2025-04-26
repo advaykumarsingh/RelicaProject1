@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Cursor sprite.png</Source>
+      <Name>Cursor sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb</Output>
+      <Time>2025-04-26T17:15:06.8331837-05:00</Time>
+    </Item>
+    <Item>
+      <Source>box.bmp</Source>
+      <Name>box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb</Output>
+      <Time>2025-04-26T17:15:06.8800501-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprite.png</Source>
+      <Name>PlayerSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb</Output>
+      <Time>2025-04-26T17:15:06.848838-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Frame.png</Source>
+      <Name>Frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb</Output>
+      <Time>2025-04-26T17:15:06.8019417-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD.png</Source>
+      <Name>HUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb</Output>
+      <Time>2025-04-26T17:15:06.8644593-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUDupgrades.png</Source>
+      <Name>HUDupgrades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb</Output>
+      <Time>2025-04-26T17:15:06.7596681-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpecialSymbols.png</Source>
+      <Name>SpecialSymbols</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb</Output>
+      <Time>2025-04-26T17:15:06.7706974-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TreasureRoomUpgrades.png</Source>
+      <Name>TreasureRoomUpgrades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb</Output>
+      <Time>2025-04-26T17:15:06.6684145-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashed.png</Source>
+      <Name>dashed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb</Output>
+      <Time>2025-04-26T17:15:06.6840357-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall.png</Source>
+      <Name>Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb</Output>
+      <Time>2025-04-26T17:15:06.7863197-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashForHUD.png</Source>
+      <Name>DashForHUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb</Output>
+      <Time>2025-04-26T17:15:06.7407486-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles.png</Source>
+      <Name>Projectiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Projectiles.xnb</Output>
+      <Time>2025-04-26T17:15:06.6527974-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{84C1618B-B2E8-47B2-80C7-21A25DA6658D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\RelicaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-08-27T16:24:16.9626471-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

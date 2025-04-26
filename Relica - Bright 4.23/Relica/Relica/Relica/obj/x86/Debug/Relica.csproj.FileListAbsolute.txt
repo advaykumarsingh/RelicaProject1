@@ -1,0 +1,357 @@
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Content\box.xnb
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Relica.exe
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Relica.pdb
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.exe
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Relica - Bright 4.3\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+D:\Relica - Bright 4.3\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Relica - Bright 4.3\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+D:\Relica - Bright 4.3\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+D:\Relica - Bright 4.3\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+D:\Relica - Bright 4.3\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+D:\Relica - Bright 4.3\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\Relica\bin\x86\Debug\Content\Projectiles.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Content\Projectiles.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Projectiles.xnb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+D:\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+D:\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+D:\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+D:\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Projectiles.xnb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Cursor sprite.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\box.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Frame.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUD.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\HUDupgrades.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\SpecialSymbols.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\TreasureRoomUpgrades.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\dashed.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Wall.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\DashForHUD.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Content\Projectiles.xnb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Relica.exe
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Relica.pdb
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.AssemblyReference.cache
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CoreCompileInputs.cache
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.csproj.CopyComplete
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.exe
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\Relica\obj\x86\Debug\Relica.pdb
