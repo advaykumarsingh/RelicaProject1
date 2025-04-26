@@ -1,0 +1,12 @@
+Content\Cursor sprite.xnb
+Content\box.xnb
+Content\PlayerSprite.xnb
+Content\Frame.xnb
+Content\HUD.xnb
+Content\HUDupgrades.xnb
+Content\SpecialSymbols.xnb
+Content\TreasureRoomUpgrades.xnb
+Content\dashed.xnb
+Content\Wall.xnb
+Content\DashForHUD.xnb
+Content\Projectiles.xnb

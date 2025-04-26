@@ -1,0 +1,28 @@
+C:\Users\264338\Desktop\Relica - Bright\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\brigh\Downloads\Relica - Bright 3.31\Relica - Bright 3.31\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+D:\Relica - Bright 4.1\Relica - Bright 3.31\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\264338\Downloads\Relica - Bright 4.2\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+D:\Relica - Bright 4.3\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+D:\Relica - Bright 4.3\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\264338\Downloads\Relica - Bright 4.7\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.9\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\264338\Downloads\Relica - Bright 4.10\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\brigh\Downloads\Relica - Bright 4.16\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright 4.17\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright 4.22\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+D:\Relica - Bright 4.23\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+D:\Relica - Bright 4.23\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\264338\Desktop\Relica - Bright 4.23\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.AssemblyReference.cache
+C:\Users\Advay\Downloads\Relica - Bright 4.23-20250426T221415Z-001\Relica - Bright 4.23\Relica\Relica\RelicaContent\obj\x86\Debug\RelicaContent.contentproj.CoreCompileInputs.cache
